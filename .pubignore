@@ -1,0 +1,7 @@
+AGENTS.md
+test/
+docs/
+build/
+native/third_party/
+coverage/
+pubspec_overrides.yaml

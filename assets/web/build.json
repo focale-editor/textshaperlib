@@ -1,0 +1,9 @@
+{
+  "harfbuzz": "15.0.0",
+  "sourceSha256": "fe4b8bad7afbbae75d61b2095c267c98f4ed04fe4a117680130ed253d2732efe",
+  "emscripten": "4.0.15",
+  "artifacts": {
+    "textshaperlib.mjs": "6caf81c1f22d609e2d95e3a19e4d785a52979a16c6ac7880e64a13c1f69b64d7",
+    "textshaperlib.wasm": "278e3ad126b267b36df5b19994f9ca69773fa6020f390e131e596f394573487d"
+  }
+}
