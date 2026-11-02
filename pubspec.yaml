@@ -1,7 +1,6 @@
 name: textshaperlib
 description: Contextual OpenType text shaping and original glyph contours for Dart, powered by HarfBuzz.
 version: 0.1.0
-publish_to: none
 homepage: https://github.com/focale-editor/textshaperlib
 repository: https://github.com/focale-editor/textshaperlib
 
@@ -32,11 +31,11 @@ executables:
 
 dependencies:
   code_assets: ^2.1.0
-  crypto: ^3.0.7
+  crypto: ^3.0.8
   ffi: ^2.2.0
   hooks: ^2.2.0
   native_toolchain_c: ^0.19.5
-  web: ^1.1.1
+  web: ^1.1.2
   zcodec: '>=0.2.0 <0.3.0'
 
 dev_dependencies:

@@ -1,12 +1,13 @@
 .dart_tool/
 build/
+coverage/
+doc/
 pubspec.lock
-native/third_party/
-
-# Local tooling and generated documentation.
-/coverage/
-**/doc/api/
-.idea/
-*.iml
-.DS_Store
 pubspec_overrides.yaml
+.env
+.idea/
+.vscode/
+*.iml
+test/corpus/files/
+test/corpus/output/
+/native/third_party/
